@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: navy;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+}
+header a {
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+}
+h1 {
+    background-color: aqua;
+    color: navy
+    
+
+}
+footer{
+    background-color: burlywood;
+    padding: 10px;
+    margin: 10px;
+}
+footer p{
+    background-color: white;
+    padding: 5px;
+    margin:  5px;
+}
+nav{
+    background-color: forestgreen;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+}
+select{
+    padding: 10px;
+    background-color: white;
+    color: royalblue;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 3px solid navy;
+}
+select option{
+    color: white;
+    background-color: navy;
+}
+.product{
+    background-color: darkorange;
+    color: white;
+    padding: 15px;
+}
+p{
+    font-size: 20px;
+}
+main{
+    padding: 20px;
+}
+h2{
+  color: royalblue;  
+}
